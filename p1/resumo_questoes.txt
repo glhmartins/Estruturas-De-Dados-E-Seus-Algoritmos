@@ -1,0 +1,11 @@
+Questao 1
+Retornar um vetor entre dois numeros (M e N), de uma AVL, onde possui tais valores contidos da árvore. Sendo este vetor, ordenado, sem metodos de ordenacao disponiveis (nao pode usar, ou implementar o proprio).
+
+Questao 2
+Retornar o tamanho (menor caminho) entre dois nós da arvore requisitados, alem de estar limitado a um numero maximo de arestas que voce pode se mover, se nao existir, retornar -infinito.
+
+Questao 3
+Insercao e remocao em AVL (desenhos)
+
+Questao 4
+Particao de arquivos (desenho)
